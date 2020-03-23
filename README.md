@@ -1,7 +1,7 @@
 # X-Attack DDos Attack Tool
 # Made By Varun Herlekar
 ### This script will help you for the DDos Attack. Enjoy! ! 
-![logo](vattack.jpg)
+![logo](vattack.png)
 #### Installing
 
 1. apt update && apt upgrade
