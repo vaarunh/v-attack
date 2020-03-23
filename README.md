@@ -1,4 +1,4 @@
-# X-Attack DDos Attack Tool
+# X-Attack DDos Attack Tool - Termux
 # Made By Varun Herlekar
 ### This script will help you for the DDos Attack. Enjoy! ! 
 ![logo](vattack.png)
