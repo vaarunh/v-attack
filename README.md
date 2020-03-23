@@ -8,7 +8,7 @@
 1. apt update && apt upgrade
 2. git clone https://github.com/varunherlekar/v-attack
 3. chmod +x *
-4. python2 xattack.py
+4. python2 vattack.py
 
 #### Finding Ip Address Of A Website
 
