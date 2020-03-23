@@ -18,9 +18,9 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("toilet -fmono12 -F gay X-Attack")
+os.system("toilet -fmono12 -F gay V-Attack")
 print
-print ("\033[96m Author   : Varyn Herlekar\033[0m")
+print ("\033[96m Author   : Varun Herlekar\033[0m")
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
