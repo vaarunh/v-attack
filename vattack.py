@@ -28,7 +28,7 @@ port = input("Port       : ")
 os.system("clear")
 os.system("figlet Starting...")
 print
-print "Your Attack Is On The Way..."
+print("Your Attack Is On The Way...")
 print
 
 print "[                    ] 0% "
