@@ -31,13 +31,13 @@ print
 print("Your Attack Is On The Way...")
 print
 
-print "([                    ] 0%) "
+print ("[                    ] 0% ")
 print
 time.sleep(5)
-print "([==========          ] 50%)"
+print ("[==========          ] 50%")
 print
 time.sleep(5)
-print "([====================] 100%)"
+print ("[====================] 100%")
 print
 time.sleep(3)
 sent = 0
